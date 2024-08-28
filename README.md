@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, World! 👋
+This is my first time creating a GitHub repository.
 <!--
 **DillonTipton/DillonTipton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
