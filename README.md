@@ -1,5 +1,6 @@
 ## Hello, World! 👋
 This is my first time creating a GitHub repository.
+I am a Computer Engineering student at the University of Dayton. I am excited to learn more about the Go programming language this semester, which is my favorite programming language thus far. I enjoy playing video games in my free time as well as startegy games with my family when the opportunity arises.
 <!--
 **DillonTipton/DillonTipton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
